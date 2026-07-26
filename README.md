@@ -7,9 +7,6 @@ AI_chatbot_miniProject
 ├── level2_nlp_bot
 └── level3_reasoning_bot
 
-# Tic-Tac-Toe — AI Player
-
-Mini AI project demonstrating Level 1 (Rule-Based), Level 2 (NLP), and Level 3 (Reasoning) chatbots using Python.
 # AI Chatbot Mini Project
 
 This project demonstrates three types of chatbots:
@@ -20,8 +17,9 @@ This project demonstrates three types of chatbots:
 
 Built using Python for AI Lab.
 
-
 # Tic-Tac-Toe — AI Player
+
+Mini AI project demonstrating Level 1 (Rule-Based), Level 2 (NLP), and Level 3 (Reasoning) chatbots using Python.
 
 A Tic-Tac-Toe game with a graphical interface (built with Tkinter) where you play against an AI opponent that uses game-tree search logic to decide its moves.
 
